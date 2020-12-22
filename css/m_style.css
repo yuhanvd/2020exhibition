@@ -1,0 +1,92 @@
+*{margin: 0;}
+
+html{font-size: 10px;}
+body{font-size: 1rem;background-color: #9BFC76;}
+a{text-decoration: none;color: #312D62;font-family: 'Bebas Neue', cursive;
+font-size: 1.9rem;font-weight: 500;letter-spacing: -0.05rem;}
+
+header{background-image: url('../img/m_main_img.png');height: 48.2rem;}
+header > .nav_wrap{width: 100%; height: 12rem;text-align: right;}
+header > .nav_wrap > nav > .menu{display: inline-block;margin: 2rem 2rem 0rem 0rem;}
+
+header > .nav_wrap > .nav_menu{position: relative;display: none;}
+header > .nav_wrap > .nav_menu > ul{display: inline-block;width: 100%;padding: 2rem 0rem;}
+header > .nav_wrap > .nav_menu > ul > a > li{list-style: none;text-align: right;background-color: #9BFC76;padding: 1.2rem 2.3rem;border-bottom: 1px solid #D3FFC2;opacity: .8;}
+header > .nav_wrap > .nav_menu > ul > li > a{}
+
+header > .nav_wrap > .nav_menu.active{display: flex;}
+
+header > .keyvisual{text-align: right;}
+header > .keyvisual > img{display: inline-block;margin : 9rem 2rem 0rem 0rem;}
+
+
+/*--part 1--*/
+section > .part_1{}
+section > .part_1 > .part_1_wrap{margin: auto;width: 100%;text-align: center;}
+section > .part_1 > .part_1_wrap > .part_1_title{}
+section > .part_1 > .part_1_wrap > .part_1_cont{}
+section > .part_1 > .part_1_wrap > .part_1_cont > a > img{margin-top: 3.8rem;}
+
+/*--part 2--*/
+section > .part_2{}
+section > .part_2 > .part_2_wrap{margin: auto;width: 100%;text-align: center;}
+section > .part_2 > .part_2_wrap > .part_2_title{margin-top: 10rem;}
+section > .part_2 > .part_2_wrap > .part_2_cont{}
+section > .part_2 > .part_2_wrap > .part_2_cont > a > img{margin-top: 3.8rem;}
+
+/*--part 3--*/
+section > .part_3{}
+section > .part_3 > .part_3_wrap{margin: auto;width: 100%;text-align: center;}
+section > .part_3 > .part_3_wrap > .part_3_title{margin-top: 10rem;}
+section > .part_3 > .part_3_wrap > .part_3_cont{}
+section > .part_3 > .part_3_wrap > .part_3_cont > a > img{margin-top: 3.8rem;}
+
+/*--part 4--*/
+section > .part_4{}
+section > .part_4 > .part_4_wrap{margin: auto;width: 100%;text-align: center;}
+section > .part_4 > .part_4_wrap > .part_4_title{margin-top: 10rem;}
+section > .part_4 > .part_4_wrap > .part_4_cont{}
+section > .part_4 > .part_4_wrap > .part_4_cont > a > img{margin-top: 3.8rem;}
+
+/*--part 5--*/
+section > .part_5{}
+section > .part_5 > .part_5_wrap{margin: auto;width: 100%;text-align: center;}
+section > .part_5 > .part_5_wrap > .part_5_title{margin-top: 10rem;}
+section > .part_5 > .part_5_wrap > .part_5_cont{}
+section > .part_5 > .part_5_wrap > .part_5_cont > a > img{margin-top: 3.8rem;}
+
+/*--part 6--*/
+section > .part_6{}
+section > .part_6 > .part_6_wrap{margin: auto;width: 100%;text-align: center;}
+section > .part_6 > .part_6_wrap > .part_6_title{margin-top: 10rem;}
+section > .part_6 > .part_6_wrap > .part_6_cont{}
+section > .part_6 > .part_6_wrap > .part_6_cont > a > img{margin-top: 3.8rem;}
+
+/*--part 7--*/
+section > .part_7{}
+section > .part_7 > .part_7_wrap{margin: auto;width: 100%;text-align: center;}
+section > .part_7 > .part_7_wrap > .part_7_title{margin-top: 10rem;}
+section > .part_7 > .part_7_wrap > .part_7_cont{}
+section > .part_7 > .part_7_wrap > .part_7_cont > a > img{margin-top: 3.8rem;}
+
+/*--part 8--*/
+section > .part_8{}
+section > .part_8 > .part_8_wrap{margin: auto;width: 100%;text-align: center;}
+section > .part_8 > .part_8_wrap > .part_8_title{margin-top: 10rem;}
+section > .part_8 > .part_8_wrap > .part_8_cont{}
+section > .part_8 > .part_8_wrap > .part_8_cont > a > img{margin-top: 3.8rem;}
+
+/*--part 9--*/
+section > .part_9{}
+section > .part_9 > .part_9_wrap{margin: auto;width: 100%;text-align: center;}
+section > .part_9 > .part_9_wrap > .part_9_title{margin-top: 10rem;}
+section > .part_9 > .part_9_wrap > .part_9_cont{}
+section > .part_9 > .part_9_wrap > .part_9_cont > a > img{margin-top: 3.8rem;}
+
+
+footer{background-image: url('../img/m_footer_bg.png');height: 32.8rem;background-position: center;background-size: cover;margin-top: 8rem;}
+footer > .footer_wrap{margin: auto;width: 100%;text-align: center;}
+footer > .footer_wrap > img{margin-top: 12rem;}
+
+
+.top_bt{background-image: url('../img/top_bt_over.png');position: fixed;right: 2rem;bottom: 3rem;width: 3.4rem;height: 3.4rem;}
